@@ -10,7 +10,7 @@ import select
 import sys
 
 # Server details
-SERVER_IP = "104.197.153.180"
+SERVER_IP = "serverIPAddress"
 SERVER_PORT = 41400
 BUFFER_SIZE = 1024
 
@@ -176,3 +176,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
